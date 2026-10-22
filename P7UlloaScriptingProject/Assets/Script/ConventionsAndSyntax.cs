@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ColorChanger : MonoBehaviour
+public class Cinventions&Syntax : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +13,6 @@ public class ColorChanger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    if    (Input.GetKeyDown(KeyCode.R))
+        
     }
 }
